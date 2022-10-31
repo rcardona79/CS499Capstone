@@ -1,1 +1,1 @@
-# CS499Capstone.github.io
+# CS499Capstone
