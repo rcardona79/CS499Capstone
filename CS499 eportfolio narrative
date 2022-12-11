@@ -1,0 +1,22 @@
+Ramon Cardona
+SNHU
+CS 499
+December 11, 2022
+
+CS499 Project Narrative
+
+	For my CS499 eportfolio I had some difficulty which courses I would use for my eportfolio. I originally was going to use and submit, coursework from my DAT 220, CS 320 
+  coursework; but I ultimately decided to use my final project for from my CS330 course. I decided to go with my CS 330 final project, because this project was started 
+  from the beginning instead of using a template and just filling in blanks, I had to write the code myself. This project does involve software design and engineering 
+  along algorithms and data structure and databases.
+	For the first enhancement that I did was to add the directions up and down, to the camera movement. The original code did not have the directions up or down. I decided 
+  to add up and down direction, to give the camera movement a more seamlessly 360-degree movement, as if someone is walking around the object. The challenges that I 
+  faced for this enhancement is keeping in line with the structure of the code. I had to add the up and down directions plus, I also had to add the up and down directions withing the functions as well. At first, I only enhanced the code by adding the up and down directions without modifying the functions for the directions. Once I modified the functions as well the camera did have more of a seamless 360-degree movement. 
+The second enhancement for this code was to ensure that any changes or enhancements made, were compatible with the algorithms and the structure that I code already had. 
+Like, I mentioned earlier by just adding the direction up and down without modifying the functions for direction, the program would not recognize the up and down 
+direction. Once, I modified the functions by adding for up and down, then the program did recognize and move up and down.
+	The final enhancement that I did for this code was to update the libraries that were used by the program. The libraries that were updated were GLAD, GLEW, GLM. 
+  Before this enhancement the libraries were running for an x32 bit system. The enhancements made the program can now run on an x64 bit system; which will run smoothly 
+  compared to an x32 bit system. The challenges that I faced was trying to find the correct databases that will run with the code under a x64 bit. 
+	This coursework will show that I can create a program without relying on a template and just filling in the blanks. This coursework will also show that I can make 
+  enhancements(modifications) and keeping with the structure of the code. 
